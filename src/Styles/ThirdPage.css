@@ -1,0 +1,42 @@
+#logo{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100px;
+  margin: 20px;
+}
+.content img{
+  height: 80px;
+  margin-top: 10px;
+}
+.content h1{
+  font-family: "Roboto", sans-serif;
+  font-size: 280%;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+#para{
+  font-family: "Shadows Into Light", cursive;
+  font-family: cursive;
+  font-weight: 400;
+  color: rgb(12, 137, 12);
+  font-size: xx-large;
+  margin: 15px 0px;
+}
+.content p{
+  font-family: "Roboto", sans-serif;
+  color: gray;
+  font-weight:400;
+  font-size: x-large;
+  font-size: 20px;
+  margin: 6px 0px;
+}
+.timer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+.timer p{
+  margin-right: 10px;
+}
